@@ -9,7 +9,11 @@
 7. 二叉树的序列化和反序列化(binary-tree-serialization)
 8. 旋转字符串(rotate-string)
 9. Fizz Buzz 问题(fizz-buzz)
+10. Lint 没有第十个 ╮(╯▽╰)╭
+11. 二叉查找树中搜索区间(search-range-in-binary-search-tree)
+12. 带最小值操作的栈(min-stack)
 13. 字符串查找(strstr)
+14. 二分查找(first-position-of-target)
 55. 比较字符串(compare-strings)
 78. 最长公共前缀(longest-common-prefix)
 79. 最长公共子串(longest-common-substring)
