@@ -27,6 +27,7 @@
 26. Lint 没有第26个 ╮(╯▽╰)╭
 27. Lint 没有第27个 ╮(╯▽╰)╭
 28. 搜索二维矩阵(search-a-2d-matrix)
+35. 翻转链表(reverse-linked-list)
 55. 比较字符串(compare-strings)
 78. 最长公共前缀(longest-common-prefix)
 79. 最长公共子串(longest-common-substring)
